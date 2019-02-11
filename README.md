@@ -1,2 +1,4 @@
 # study_git
-My Study of Git and GitHub operation
+
+This is My Git repository for study GitHub operation..
+I will do some test commits and also random operation for the study of git!
